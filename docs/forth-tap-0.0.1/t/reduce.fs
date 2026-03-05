@@ -1,4 +1,4 @@
-#! /usr/local/bin/gforth
+#! /usr/bin/env gforth
 
 require ../lib/test-more.fs
 require ../reduce.fs
